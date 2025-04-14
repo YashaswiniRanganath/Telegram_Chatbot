@@ -37,3 +37,16 @@ Important Notes
 Keep your API tokens confidential. Do not share them in public repositories or with unauthorized users.
 Ensure that you comply with the terms of service for both Telegram and OpenAI.
 Review the OpenAI GPT-3.5-turbo documentation for additional details: OpenAI GPT-3.5-turbo Documentation
+
+
+Summary:
+Setup and Usage:
+Clone the repository and navigate to the project directory.​
+
+Install the required Python packages:​
+pip install python-telegram-bot openai moviepy gtts
+
+Obtain and set your Telegram Bot API token and OpenAI API key in the script.​
+
+Run the chatbot script to start interacting with the bot.​
+This project demonstrates proficiency in integrating AI models with messaging platforms, enhancing user interaction through text and voice capabilities.
